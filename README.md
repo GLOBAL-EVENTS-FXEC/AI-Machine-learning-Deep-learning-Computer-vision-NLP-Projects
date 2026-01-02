@@ -10,7 +10,7 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 
 | Sr No | Name                                                         | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | 365 Days Computer Vision Learning                            | [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
+| 1     | Days Computer Vision Learning                                | [👆](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
 | 2     | 125+ NLP Language Models Treasure of Transformers            | [👆](https://github.com/ashishpatel26/Treasure-of-Transformers) |
 | 3     | Andrew NG ML notes                                           | [👆](https://github.com/ashishpatel26/Andrew-NG-Notes)        |
 | 4     | 10 Machine Learning Projects on Time Series Forecasting      | [👆](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
@@ -113,7 +113,8 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 101   | 12 Machine learning Object Detection                         | [👆](https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37) |
 | 102   | 20 NLP Project with Python                                   | [👆](https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c) |
 | 103   | Learning Material for Deep Learning, ML, Computer Vision and NLP   | [👆](https://github.com/kmario23/deep-learning-drizzle) |
-***More Projects list is coming...!!!***
+
 
 ---
+
 
